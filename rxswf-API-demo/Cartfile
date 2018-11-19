@@ -1,0 +1,6 @@
+github "ReactiveX/RxSwift" ~> 4.0
+github "RxSwiftCommunity/RxDataSources" ~> 3.0
+github "RxSwiftCommunity/RxAlamofire" "master"
+github "Hearst-DD/ObjectMapper" ~> 3.3
+github "ishkawa/APIKit"
+github "SVProgressHUD/SVProgressHUD"
